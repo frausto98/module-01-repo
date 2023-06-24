@@ -122,7 +122,11 @@ p {
 
 .big-tabs h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 48px;
+}
+
+.big-tabs p {
+    font-size: 24px;
 }
 
 
